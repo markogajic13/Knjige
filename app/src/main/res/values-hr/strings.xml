@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_oznaka_valute">Valuta</string>
+    <string name="text_paritet">Paritet</string>
+    <string name="text_kupovni">Kupovni</string>
+    <string name="text_prodajni">Prodajni</string>
+    <string name="text_spremi">Spremi</string>
+    <string name="text_odustani">Odustani</string>
+    <string name="app_name">iLongRunningTasks</string>
+</resources>

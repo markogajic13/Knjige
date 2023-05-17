@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iLongRunningTasks</string>
+    <string name="text_oznaka_valute">Currency</string>
+    <string name="text_paritet">Parity</string>
+    <string name="text_kupovni">Buy</string>
+    <string name="text_prodajni">Sell</string>
+    <string name="text_spremi">Save</string>
+    <string name="text_odustani">Cancel</string>
+</resources>
